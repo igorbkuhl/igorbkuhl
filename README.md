@@ -2,4 +2,4 @@
 - I'm interested in become better at web development every day!
 - I'm learning JavaScript, TypeScript and VueJS.
 - Currently coursing Front-end from Instituto Evoluir with @thvieira as my teacher.
-- For direct messages, call for me as "monitz" on discord. 
+- For direct messages, call for me as "igorbk_" on discord. 
